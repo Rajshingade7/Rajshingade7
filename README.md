@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raj Shingade</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img alt="coding" width="400" src="200w.webp" align="center">
+<img align="center" alt="coding" width="400" src="200w.webp" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshingade7&label=Profile%20views&color=0e75b6&style=flat" alt="rajshingade7" /> </p>
 
