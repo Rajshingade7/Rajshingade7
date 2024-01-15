@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raj Shingade</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2JIDIoNJqu3VGYVBv7wTou&ust=1703692840982000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDl-si8rYMDFQAAAAAdAAAAABAu](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400" src="200w.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshingade7&label=Profile%20views&color=0e75b6&style=flat" alt="rajshingade7" /> </p>
 
