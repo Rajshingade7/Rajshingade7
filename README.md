@@ -18,15 +18,15 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/97889220/296849375-
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Jakarta EE, MS .net, Docker**
+- 🌱 I have worked on **Jakarta EE, MS .net, Docker, vue.js,react.js**
 
-- 👯 I’m looking to collaborate on **MS .net project, Jakarta EE Project**
+- 👯 I’m looking to collaborate on **MS .net project, Jakarta EE Project,react Projects, vue Project**
 
 - 🤝 I’m looking for help opportunity **Full Stack Development**
 
 - 📝 I regularly write articles on [Some Movie Review Blogs, Inspirational thought and stories](Some Movie Review Blogs, Inspirational thought and stories)
 
-- 💬 Ask me about **SQL,MySql,Jakarta EE, MS .net, React, Javascript**
+- 💬 Ask me about **SQL,MySql,Jakarta EE, MS .net, React, Javascript,vue.js,MongoDB,SQL Server**
 
 - 📫 How to reach me **rajshingade777@gmail.com**
 
