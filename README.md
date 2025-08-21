@@ -47,6 +47,10 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/97889220/296849375-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajshingade7&show_icons=true&locale=en&layout=compact" alt="rajshingade7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajshingade7&show_icons=true&locale=en" alt="rajshingade7" /></p>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rajshingade7&show_icons=true&include_all_commits=true"
+    alt="rajshingade7's GitHub stats (All time)"
+  />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajshingade7&" alt="rajshingade7" /></p>
